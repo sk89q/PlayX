@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+    "name" "PlayX"
+    "version" "2.8"
+    "author_name" "Nexus [BR]"
+    "author_url" "http://github.com/nexbr/playx"
+    "info" "Internet media player"
+}
